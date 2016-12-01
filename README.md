@@ -1,6 +1,7 @@
 # Bank-Data-Analysis-with-K-means-Clustering
 
 Analysis report:
+
 1.	normolize the dataset, remove the NA.
 2.	convert the factor to number for k-means implement 
 3.	check and deal with outliers.
